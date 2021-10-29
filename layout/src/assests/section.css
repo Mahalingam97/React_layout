@@ -1,0 +1,24 @@
+.section{
+    margin: 5px 0px;
+    display: flex;
+    width: 100%;
+    height: 63vh;   
+    }
+.section p{
+    padding-top: 20vh;
+    font-size: 17px;
+    }
+.side_bar {
+    flex: 3;
+    background-color: turquoise;
+    height: 63vh;
+    margin-right: 5px; 
+    margin-top: 5px;
+    }
+.content{
+    flex: 7;
+    margin-top: 5px;
+    height: 63vh;
+    background-color: rgb(125, 198, 224);
+    }
+  
